@@ -137,5 +137,3 @@ print("Linear Regression provides a baseline performance. You may improve result
 print("Further tuning and cross-validation can help in improving accuracy and generalization.")
 
 
-get_ipython().system('jupyter nbconvert --to python student.ipynb --TemplateExporter.exclude_input_prompt=True')
-
